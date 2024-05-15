@@ -3,7 +3,7 @@
 #install
 #apt install default-jre -y
 #apt install openjdk-21-jre
-apt install default-jdk
+#apt install default-jdk
 #snap install pinta
 
 #add-apt-repository -y ppa:far2l-team/ppa
